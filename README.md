@@ -1,7 +1,7 @@
 A number plate detection system using only scanned images involves a sequence of image processing steps to accurately detect and recognize vehicle number plates from static images. Here’s a brief overview of the process:
 
 1. **Image Acquisition**
-Source: Obtain scanned images of vehicles, which can be in formats like JPEG, PNG, etc.
+Source: Obtain scanned images of vehicles, which can be in formats like JPEG, PNG, etc./
 **2. Pre-processing**
 Grayscale Conversion: Convert the image to grayscale to simplify processing.
 Noise Reduction: Apply filters to reduce noise (e.g., Gaussian blur, median filter).
